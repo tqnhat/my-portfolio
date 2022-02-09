@@ -7,7 +7,6 @@ import Testimonials from './components/Testimonials';
 
 
 function App() {
-  //test git
   return (
     <main>
       <Navbar />
