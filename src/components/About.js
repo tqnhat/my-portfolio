@@ -1,5 +1,4 @@
 import { Component } from "react";
-
 //src/components/About.js
 class About extends Component{
     render (){
