@@ -1,0 +1,6 @@
+
+
+Before 30/03 : 
+- Folow some guides to deploy automatically react-portfolio. That lead to change
+    source code of master to static pages
+- Use git on VSC to merge and this changes the current source to the static page
